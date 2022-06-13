@@ -1,0 +1,49 @@
+.builderPageHeader {
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.builderPageSubhead {
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.npcbuilder-button {
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    background-color: rgb(78, 165, 236);
+    margin: 7px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    height: 150px;
+    width: 175px;
+}
+
+.npcbuilder-button > p {
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+}
+
+.NPCBuilderPage {
+    background: url(https://media-waterdeep.cursecdn.com/attachments/1/614/builder1k.jpg);
+    background-color: #FDFEF9;
+    background-size: 100% auto;
+    background-position: center 65px;
+    background-repeat: no-repeat, repeat;
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    height: 800px;
+    text-align: left;
+}
+
+.centered-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,59 @@
+form {
+    display: block;
+    float: center;
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin: auto;
+    width: 75%; 
+}
+
+input{box-sizing:border-box}
+
+.charIdText {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.inputChar {
+    border: 2px solid lightgrey;
+    flex: 1;
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+} 
+
+.NPCImportPage {
+    background: url(https://media-waterdeep.cursecdn.com/attachments/1/614/builder1k.jpg);
+    background-color: #FDFEF9;
+    background-size: 100% auto;
+    background-position: center 65px;
+    background-repeat: no-repeat, repeat;
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    height: 800px;
+    text-align: left;
+}
+
+.requestButton {
+    background-color: #50abf5;
+    border: 10px solid #50abf5;
+    color: white;
+    border-radius: 5px;
+    font-family: "Scala Sans Offc", Roboto, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+}
+
+.requestButton:hover {
+    background-color: #0989f1;
+    border: 10px solid #0989f1;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}

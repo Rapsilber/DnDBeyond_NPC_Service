@@ -1,0 +1,21 @@
+.menubar {
+    background-color: black;
+    border-bottom: solid 2px #50abf5;
+    height: 65px;
+    width: 100%;
+}
+
+.homePage-button {
+    background: transparent 50% url(https://www.dndbeyond.com/Content/Skins/Waterdeep/images/dnd-beyond-logo.svg) no-repeat;
+    background-size: auto 40px;
+    border: none;
+    height: 57.5px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 9%;
+    margin-left: 20px;
+}
+
+.homePage-button:hover {
+    cursor: pointer;
+}

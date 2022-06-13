@@ -1,0 +1,16 @@
+import * as React from 'react';
+
+import '../../scss/Containers.css';
+
+// Signifies a main page, each Container element is followed by the pages content divider.
+
+
+const Container = (props: any) => {
+    return (
+        <div className="container">
+            {props.children}
+        </div>
+    );
+}
+
+export default Container;

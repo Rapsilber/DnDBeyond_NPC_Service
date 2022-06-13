@@ -1,0 +1,10 @@
+.npcstatblock {
+    display: inline-block;
+}
+.npcstatblock-header {
+    font-weight: bold;
+    font-size: 24px;
+    color: #822000;
+    border-bottom: 1px solid;
+    line-height: 1.4;
+}
