@@ -1,1 +1,0 @@
-serve -s build -l tcp:www.dndbeyond.dev --ssl-cert cert.pem --ssl-key key.pem

@@ -1,8 +1,0 @@
-.card-container {
-    display: flex;
-}
-
-.card-container > .cardMap {
-    padding: 10px;
-    margin: 10px;
-}

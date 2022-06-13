@@ -1,9 +1,0 @@
-.npcusable {
-    font-weight: bold;
-    margin-left: 5px;
-}
-
-.npcusable:hover {
-    cursor: pointer;
-    text-decoration: underline;
-}
