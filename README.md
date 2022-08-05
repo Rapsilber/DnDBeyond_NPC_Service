@@ -1,10 +1,33 @@
-# DnDBeyond_NPC_Service
-Computer Science Capstone Project: Create a NPC (non-playable character) generator service for Hasbro's DnDBeyond. 
+﻿
+# DnDBeyond NPC Service
+A simple web application to generate Non Playable Characters (NPCs) for your D&D Beyond Campaign. In collaboration with DnD Beyond. 
 
-The different branches include the source files, milestone presentations, and final product images.
+## Key Features
+-	Random Creation of NPCs
+-	Create NPCs through importing custom characters
+-	Trackable Data and fleshed out NPC stats.
 
-This project was in collaboration with DnDBeyond to create a NPC Generator that allows users to access a NPC storage webpage called 'MyNPCs' to create a NPC, either by random selections or by importing an already made playable character. After creating a NPC, the user has access to the NPC sheet on a webpage called 'NPCPage', allowing an interactive and user friendly experience, styled after DnD's npc sheets. The function is to make NPC data interactable and trackable for users. Features include: trackable data (spells, items, etc.), hideable UI elements, and easy creation of NPCs. 
+## Notes
+This project was a capstone project for CS498. Branches of this repository include milestone presentations and final project images that were presented to the D&D Beyond Team. 
 
-Aside from myself, the team included Brion Gahl (https://github.com/BrionGahl) and Prem Rana (https://github.com/ranamerp), as well as collaboration with members from DnDBeyond: Patrick Backmann (Project Manager), Jason Bush (Software Developer), and Ben Dixon (Software Developer).
+## Credits
+Internal Team members:
+ - [Brion Gahl](https://github.com/BrionGahl) 
+		 - Primary React Implementation
+		 - Backend/Frontend Interfacing
+		 - NPC Builders & Sheets
+ - [Caleb Rapsilber](https://github.com/Rapsilber)
+ 		 - Primary React Implementation
+		 - Backend/Frontend Interfacing
+		 - NPC Builders & Sheets
+  - [Prem Rana](https://github.com/ranamerp)
+			  - Flask Implimentation
+			  - Database Management & Implimentation
+			  - Backend Development & Maintenance.
 
-My duties involved team lead, design/styling of webpages, development of webpages (such as NPCRandom), and the design/styling of the Milestone presentations.
+ DnDBeyond Team Members: 
+ - Patrick Backmann (Project Manager)
+ - Jason Bush (Software Developer)
+ - Ben Dixon (Software Developer).
+
+
